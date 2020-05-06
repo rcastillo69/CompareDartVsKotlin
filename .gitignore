@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea/CompareDartVsKotlin.iml
+/build
+dart/.idea
+dart/.dart_tool
+kotlin/.idea
+kotlin/out/
+out/.idea
+.idea/
+kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module
+.idea/CompareDartVsKotlin.iml
+kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module
